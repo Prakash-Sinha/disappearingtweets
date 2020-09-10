@@ -1,4 +1,5 @@
 Day 1 
+
 1 .Started with CRA(create-react-app) 
 2 Made components and html files (all boiler plate ) and css 
 3 Made all react components so that they can use props and pass properties back and fourth from each component to App.jsx file 
